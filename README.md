@@ -1,4 +1,4 @@
-# java-advent-calendar
+# Java Advent Calendar
 ===========================
 
 Java Advent Calendarで使用したソースコード置き場です。
